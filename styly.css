@@ -4,3 +4,10 @@ body {
   max-width: 600px;
   margin: 0 auto;
 }
+
+header {
+  background-color: #166088;
+  color: #ffffff;
+}
+
+
